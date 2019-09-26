@@ -494,7 +494,7 @@ Navbar CSS
   left: 0;
   width: 100%;
   z-index: 999;
-  padding: 5px 0;
+  padding: 10px 0;
   background-color: #ffffff !important;
   -webkit-box-shadow: 0 7px 13px 0 rgba(0, 0, 0, 0.1);
           box-shadow: 0 7px 13px 0 rgba(0, 0, 0, 0.1);
@@ -675,7 +675,7 @@ Navbar CSS
     font-size: 16px;
   }
   .navbar-light.is-sticky {
-    padding: 5px 15px;
+    padding: 10px 15px;
   }
   .navbar-toggler-icon {
     width: 1.3em;
